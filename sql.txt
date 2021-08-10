@@ -1,0 +1,7 @@
+
+
+this is used to drop when table parent has the depandence on the other  class like foregien key and primanry key 
+1 drop table student cascade constraints;
+
+
+
